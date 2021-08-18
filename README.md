@@ -10,6 +10,14 @@ Start up Storybook in dev
 npm run storybook
 ```
 
+Build static version to host on Github Pages
+
+```bash
+npm run build-storybook
+```
+
+Files are build to storybook-static ( this folder is published on Github pages )
+
 # Svelte app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
